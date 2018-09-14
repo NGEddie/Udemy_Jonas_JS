@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "macaddress": "^0.2.9"
   }
 }
