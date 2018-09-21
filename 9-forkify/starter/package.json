@@ -25,6 +25,7 @@
     "@babel/polyfill": "^7.0.0",
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
+    "fractional": "^1.0.0",
     "macaddress": "^0.2.9"
   }
 }
